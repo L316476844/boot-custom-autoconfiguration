@@ -1,0 +1,14 @@
+server:
+  port: 8001
+  servlet-path: /
+logging:
+  config: classpath:logback-spring.xml
+
+
+jon:
+  lv:
+    limit: 66
+    name: jon
+    ip-list:
+    - 127.0.0.1
+    - localhost
