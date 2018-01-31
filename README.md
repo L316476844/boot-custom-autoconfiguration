@@ -77,3 +77,9 @@ org.springframework.boot.autoconfigure.EnableAutoConfiguration=org.jon.lv.auto.E
         private JonServer jonServer;       
    
 ````
+
+#### 来点高效元素 o(*￣︶￣*)o
+<img src="https://github.com/L316476844/boot-custom-autoconfiguration/blob/master/img/auto.png" alt="">
+
+<img src="https://github.com/L316476844/boot-custom-autoconfiguration/blob/master/img/enable.png" alt="">
+
